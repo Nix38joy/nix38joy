@@ -1,6 +1,6 @@
-Привет, я Герман (Nix38joy0 | Frontend Engineer 🚀
+Привет, я Герман (Nix38joy) | Frontend Engineer 🚀
 Специализируюсь на проектировании и разработке отказоустойчивых веб-интерфейсов с акцентом на масштабируемую архитектуру и надежный State Management. Мой подход базируется на принципах системного проектирования и строгой типизации данных.
-Технический стек и компетенции
+Технический стек и компетенции: 
 Core: JavaScript (ES6+, Event Loop, Async), TypeScript (Strict Typing, Generics, Utility Types)
 Frontend: React 18 (Hooks, Optimization, Context Management)
 State Management: Zustand (Middleware, Persist, State Orchestration, Lifecycle Management)
